@@ -7,7 +7,7 @@ import com.bank.Entities.Customer;
 public class CustomerTest {
 
 	public static void main(String[] args) {
-
+               System.out.println("upadte");
 		Customer c=new Customer();
 		c.setCustomerName("veky");
 		c.setCustomerId(425);
