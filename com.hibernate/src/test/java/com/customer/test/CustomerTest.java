@@ -8,6 +8,7 @@ public class CustomerTest {
 
 	public static void main(String[] args) {
                System.out.println("upadte");
+               System.out.println("memeber update");
 		Customer c=new Customer();
 		c.setCustomerName("veky");
 		c.setCustomerId(425);
